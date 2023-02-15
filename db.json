@@ -5,7 +5,7 @@
         "nome": "Jonatan da Silva Mendes",
         "dataDeNascimento": "22/09/2003",
         "email": "jonmendes7803@gmail.com",
-        "senha:"12345678",
+        "senha":"12345678",
         "telefone":"(21) 99534-5107"
       },
       {
@@ -13,7 +13,7 @@
         "nome": "Thiago lessa da Silva",
         "dataDeNascimento": "20/01/2003",
         "email": "thiaguinholessa@gmail.com",
-        "senha:"12345678",
+        "senha":"12345678",
         "telefone": "(21) 98026-4031"
       },
       {
@@ -21,7 +21,7 @@
         "nome": "Camila Roberta Marques",
         "dataDeNascimento": "20/05/2000",
         "email": "camilamarquesserafim@gmail.com",
-        "senha:"12345678",
+        "senha":"12345678",
         "telefone": "(21) 98124-2316"
       }
     ],
