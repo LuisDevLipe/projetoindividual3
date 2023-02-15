@@ -57,21 +57,24 @@
                 "produto": "Whey protein",
                 "marca":"Integralmedica",
                 "quantidade":"900g",
-                "valor": 15 
+                "valor": 15,
+                "imgs":["https://produto.saudifitness.com.br//1200x1200/59059.jpg/flags.jpg?aplicarFlags=true&unidade=1&flagTexto=&v=6"]
             },
             {
                 "id": 2,
                 "produto": "Creatina",
                 "marca":"Max Titanium",
                 "quantidade":"150g",
-                "valor": 99
+                "valor": 99,
+                "imgs":["https://www.madrugaosuplementos.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/r/creatina-150g-max-titanium.png"]
             },
             {
                 "id": 3,
                 "produto": "Pré-treino",
                 "marca":"Darkness",
                 "quantidade":"300g",
-                "valor":12 
+                "valor":12 ,
+                "imgs":["https://integralmedica.vteximg.com.br/arquivos/ids/161933-292-292/DARKNESS-evora-FRUTAS-AMARELAS-150g-ME3241.png?v=637631832857870000"]
             }
     ]
 
