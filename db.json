@@ -1,71 +1,71 @@
 {
     "Alunos": [
       {
-        "Id": 1,
-        "Nome": "Jonatan da Silva Mendes",
-        "Data de nascimento": "22/09/2003",
-        "Email": "jonmendes7803@gmail.com",
-        "Telefone":"(21) 99534-5107"
+        "id": 1,
+        "nome": "Jonatan da Silva Mendes",
+        "dataDeNascimento": "22/09/2003",
+        "email": "jonmendes7803@gmail.com",
+        "telefone":"(21) 99534-5107"
       },
       {
-        "Id": 2,
-        "Nome": "Thiago lessa da Silva",
-        "Data de nascimento": "20/01/2003",
-        "Email": "thiaguinholessa@gmail.com",
-        "Telefone": "(21) 98026-4031"
+        "id": 2,
+        "nome": "Thiago lessa da Silva",
+        "dataDeNascimento": "20/01/2003",
+        "email": "thiaguinholessa@gmail.com",
+        "telefone": "(21) 98026-4031"
       },
       {
-        "Id": 3,
-        "Nome": "Camila Roberta Marques",
-        "Data de nascimento": "20/05/2000",
-        "Email": "camilamarquesserafim@gmail.com",
-        "Telefone": "(21) 98124-2316"
+        "id": 3,
+        "nome": "Camila Roberta Marques",
+        "dataDeNascimento": "20/05/2000",
+        "email": "camilamarquesserafim@gmail.com",
+        "telefone": "(21) 98124-2316"
       }
     ],
 
      "Planos":[
         {
-            "Id": 1,
-            "Descr": "Plano Prata",
-            "Serviços": "Musculação",
-            "Valor": "$119,00"
+            "id": 1,
+            "descr": "Plano Prata",
+            "servicos": ["Musculação"],
+            "valor": 119
         },
         {
-            "Id": 2,
-            "Descr": "Plano Ouro",
-            "Serviços": "Musculação + 1 aula coltiva",
-            "Valor": "$139,90"
+            "id": 2,
+            "descr": "Plano Ouro",
+            "servicos": ["Musculação", "1 aula coletiva"],
+            "valor": 139
         },
         {
-            "Id": 3,
-            "Descr": "Plano Club+",
-            "Serviços": "Musculação + todas as aulas coletiva e beneficios",
-            "Valor": "$588,00"
+            "id": 3,
+            "descr": "Plano Club+",
+            "servicos": ["Musculação", "Todas as aulas coletivas", "beneficios"],
+            "valor": 588
             
         }
     ],
 
      "Suplementos":[
             {
-                "Id": 1,
-                "Produto": "Whey protein",
-                "Marca":"Integralmedica",
+                "id": 1,
+                "produto": "Whey protein",
+                "marca":"Integralmedica",
                 "quantidade":"900g",
-                "Valor": "$159.90" 
+                "valor": 15 
             },
             {
-                "Id": 2,
-                "Produto": "Creatina",
-                "Marca":"Max Titanium",
+                "id": 2,
+                "produto": "Creatina",
+                "marca":"Max Titanium",
                 "quantidade":"150g",
-                "Valor": "$99,99" 
+                "valor": 99
             },
             {
-                "Id": 3,
-                "Produto": "Pré treino",
-                "Marca":"Darkness",
+                "id": 3,
+                "produto": "Pré-treino",
+                "marca":"Darkness",
                 "quantidade":"300g",
-                "Valor":"$129,90" 
+                "valor":12 
             }
     ]
 
