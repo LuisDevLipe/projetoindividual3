@@ -28,19 +28,22 @@
             "id": 1,
             "descr": "Plano Prata",
             "servicos": ["Musculação"],
-            "valor": 119
+            "valor": 119,
+            "modalidade":"Mensal"
         },
         {
             "id": 2,
             "descr": "Plano Ouro",
             "servicos": ["Musculação", "1 aula coletiva"],
-            "valor": 139
+            "valor": 139,
+            "modalidade":"Mensal"
         },
         {
             "id": 3,
             "descr": "Plano Club+",
             "servicos": ["Musculação", "Todas as aulas coletivas", "beneficios"],
-            "valor": 588
+            "valor": 588,
+            "modalidade":"Anual"
             
         }
     ],
